@@ -34,7 +34,7 @@ namespace WebApplication3
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseMvc();//123456
+            app.UseMvc();//123456789
         }
     }
 }
